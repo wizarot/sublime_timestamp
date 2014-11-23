@@ -17,6 +17,6 @@ key + <kbd>tab</kbd>
 | *key*  | *format* | *example* |
 | ------  | -------- |  -------- |
 | `now` | `Y-m-d H:i:s` | `2014-11-22 14:41:54` | 
-| `tsnow` | `Y-m-d-H-i-s` | `2014-11-22-05-01-54` |
+| `tsnow` | timestamp | `140xxxxxxx` |
 | `2014-12-22-05-5-23` | timestamp | `140xxxxxxx` |
 
